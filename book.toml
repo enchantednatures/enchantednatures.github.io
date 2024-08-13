@@ -1,0 +1,6 @@
+[book]
+authors = ["hcasten"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Enchanted Natures"
