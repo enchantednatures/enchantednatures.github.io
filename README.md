@@ -2,4 +2,6 @@
 
 ## Introduction
 
-Welcome
+Welcome! I am Hunter.
+
+[Photography](https://enchantednatures.com) 
