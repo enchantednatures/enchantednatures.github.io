@@ -6,3 +6,6 @@
 
 - [Topology](./rack.md)
 
+# Notes
+
+- [Rendering dot in mdBook](./md-book.md)

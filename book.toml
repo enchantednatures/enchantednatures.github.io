@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Enchanted Natures"
+
+[output.html]
+copy-fonts = true
+additional-js = ["script.js"]
