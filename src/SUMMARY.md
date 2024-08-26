@@ -2,10 +2,11 @@
 
 [Introduction](../README.md)
 
-# Home Cluster
+## Home Cluster
 
 - [Topology](./rack.md)
 
-# Notes
+## Notes
 
 - [Rendering dot in mdBook](./md-book.md)
+- [Keyboard Layout](./keyboard-layout.md)
