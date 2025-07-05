@@ -4,7 +4,9 @@
 
 ## Home Cluster
 
-- [Topology](./rack.md)
+- [Homelab Documentation](./rack.md)
+- [Network Design & VLAN Strategy](./network-design.md)
+- [VLAN Configuration Guide](./vlan-config.md)
 
 ## Notes
 
